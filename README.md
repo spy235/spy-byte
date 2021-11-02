@@ -1,7 +1,16 @@
 
-## Hyy, I'm [Yashas J](https://www.linkedin.com/in/yashas-j-07837a207) 👋
+## :anger: Hyy, I'm [Yashas J](https://www.linkedin.com/in/yashas-j-07837a207) :anger:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+
+## OS  :heart:
+
+</code><code><img height="20" src=" 	https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white
+"></code> 
+
+
+## Socail Media Handles :fire:
+
+
 
 <a href="https://www.linkedin.com/in/yashas-j-07837a207">
   <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -21,6 +30,7 @@
 
 <br/>
 <br/>
+
 
 
 - 🔭 I’m currently on [Codepen](https://codepen.io/spy-byte).
