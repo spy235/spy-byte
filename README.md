@@ -37,7 +37,7 @@
 - 💬 Ask me about Front-end stuff or any tech-related stuff i will try my best.
 - 📫 How to reach me:[Youtube - @unknownartist](https://www.youtube.com/channel/UCgO8jHI55d8MDKzD5fE73cQ)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
+- ⚡ CURRENTLY HYPER INTRESTED IN ETHICAL HACKING DO CHECK OUT REPOs.
 
 
 [![GitHub spy-byte](https://img.shields.io/github/followers/spy-byte?label=follow&style=social)](https://github.com/spy-byte)
