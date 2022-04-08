@@ -37,7 +37,6 @@
 - 💬 Ask me about Front-end stuff or any tech-related stuff i will try my best.
 - 📫 How to reach me:[Youtube - @unknownartist](https://www.youtube.com/channel/UCgO8jHI55d8MDKzD5fE73cQ)
 - 😄 Pronouns: He/His
-- ⚡ CURRENTLY HYPER INTRESTED IN ETHICAL HACKING DO CHECK OUT REPOs.
 
 
 [![GitHub spy-byte](https://img.shields.io/github/followers/spy-byte?label=follow&style=social)](https://github.com/spy-byte)
@@ -50,10 +49,10 @@
 <code><img height="20" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code><code><img height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></code>  
 <a href="https://github.com/spy-byte">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spy-byte&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spy235&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/spy-byte">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=spy-byte&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=spy235&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
 
 
